@@ -56,7 +56,7 @@ plt.show()
 ```
 ## Output
 
-OUTPUT !
+
 ![output](/output.png)
 ![output](/output1XvsY.png)
 ## Result
