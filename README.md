@@ -48,6 +48,11 @@ print (m, c)
 Y_mean = m*X+c
 print (Y_mean)
 
+import matplotlib.pyplot as plt
+plt.scatter(X,Y)
+plt.plot(X,Y_pred,color="purple")
+plt.show()
+
 ```
 ## Sample Input and Output
 INPUT !
