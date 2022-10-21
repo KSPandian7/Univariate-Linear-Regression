@@ -54,9 +54,7 @@ plt.plot(X,Y_pred,color="purple")
 plt.show()
 
 ```
-## Sample Input and Output
-INPUT !
-![inp](./input.jpg)
+## Output
 
 OUTPUT !
 ![output](/output.png)
